@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+joblib
+pillow
+tensorflow
+opencv-python-headless
+pyzbar
+streamlit-webrtc
+av
+web3
